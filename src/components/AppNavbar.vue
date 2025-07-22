@@ -8,7 +8,7 @@
         >
           <img
             :alt="`${$t('hero.name')}'s picture'`"
-            src="@/assets/img/profile.webp"
+            src="@/assets/img/perfil.png"
             class="h-10 w-10 rounded-full rounded-tl-none duration-500 sm:group-hover:rounded-br-sm sm:group-hover:rounded-tl-full"
           />
           Cleverton

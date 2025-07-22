@@ -26,7 +26,7 @@
         <div class="mb-10 mt-10 inline-block items-center text-center sm:mt-0">
           <div name="photo-frame" class="group relative mb-8 inline-block md:mb-0 md:block">
             <img
-              src="@/assets/img/profile.webp"
+              src="@/assets/img/perfil.png"
               class="relative z-[1] float-left mx-8 mb-2 h-56 w-56 rotate-6 rounded-lg border-gray-400 duration-300 md:group-hover:rotate-0"
               alt=""
             />
