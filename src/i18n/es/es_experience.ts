@@ -28,7 +28,7 @@ const experience: Experience = {
       position: 'Developer Full Stack (trainee)',
       url: 'https://www.sywo.com.br',
       startDate: '2022-01',
-      endDate: '2023-04',
+      endDate: '2023-06',
       highlights: [
         'Crear y mantener interfaces con Vue.js o React.js.',
         'Construcción y mantenimiento de APIs con PHP (Laravel), Node.js (Express) y Python (Django).',
